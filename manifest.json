@@ -1,12 +1,12 @@
 {
-    "name":"PWA Tutorial",
-    "short_name":"PWA",
+    "name":"EEE 35",
+    "short_name":"EEE 35",
     "start_url":"index.html",
     "display":"standalone",
-    "background_color":"#5900b3",
+    "background_color":"#333",
     "theme_color":"black",
     "scope": ".",
-    "description":"This is a PWA tutorial.",
+    "description":"Get your Routine Organised. Currenty unofficial and expected to be officially available soon.",
     "icons":[
     {
     "src":"images/icon-192x192.png",                     
